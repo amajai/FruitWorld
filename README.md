@@ -1,2 +1,2 @@
 # first-try
-git basic
+Simple responsive webpage
